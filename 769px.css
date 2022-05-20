@@ -1,7 +1,10 @@
 html {
     width: 769px;
+    height: 504px;
 }
 body {
+    width: 769px;
+    height: 504px;
     font-family: 'TT Lakes'
 }
 .button {
